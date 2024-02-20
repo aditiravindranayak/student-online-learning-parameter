@@ -48,6 +48,12 @@ Blinking & Yawning:
 ![Blinking](https://github.com/aditiravindranayak/student-online-learning-parameter/assets/109815646/12a7bf36-6088-40a1-bd90-68f19b8145fa)
 
 
+
+
+
+
+
+
 ![Yawning](https://github.com/aditiravindranayak/student-online-learning-parameter/assets/109815646/9fbbbafa-9ad2-4f29-9893-eb96a63e4ac9)
 
 
