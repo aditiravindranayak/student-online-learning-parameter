@@ -41,6 +41,16 @@ The Online Lecture Attention Predictor is a Python tool designed to analyze onli
 
 3. Enter the name of the lecture video file (without the extension) and choose an option (Process, Records, Exit).
 
+## Screenshots 
+
+Blinking & Yawning:
+
+![Blinking](https://github.com/aditiravindranayak/student-online-learning-parameter/assets/109815646/12a7bf36-6088-40a1-bd90-68f19b8145fa)
+
+
+![Yawning](https://github.com/aditiravindranayak/student-online-learning-parameter/assets/109815646/9fbbbafa-9ad2-4f29-9893-eb96a63e4ac9)
+
+
 ## Results
 
 The Online Lecture Attention Predictor provides educators with valuable insights into student attention spans during online lectures. By analyzing blink frequency, yawn duration, and moments of concentration, this tool helps identify patterns of engagement and disengagement. The recorded data is stored in a MySQL database for continuous assessment and improvement of teaching strategies.
